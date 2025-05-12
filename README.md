@@ -5,20 +5,13 @@ Booking System: Create a booking mechanism for users to reserve properties and m
 Payment Processing: Integrate a payment system to handle transactions and record payment details.
 Review System: Allow users to leave reviews and ratings for properties.
 Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
-#tech stack
-Django: A high-level Python web framework used for building the RESTful API.
-Django REST Framework: Provides tools for creating and managing RESTful APIs.
-PostgreSQL: A powerful relational database used for data storage.
-GraphQL: Allows for flexible and efficient querying of data.
-Celery: For handling asynchronous tasks such as sending notifications or processing payments.
-Redis: Used for caching and session management.
-Docker: Containerization tool for consistent development and deployment environments.
-CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
+
 "Team Roles'
 Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
 Database Administrator: Manages database design, indexing, and optimizations.
 DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
 QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+
  “Technology Stack”
  Django: A high-level Python web framework used for building the RESTful API.
 Django REST Framework: Provides tools for creating and managing RESTful APIs.
@@ -28,6 +21,7 @@ Celery: For handling asynchronous tasks such as sending notifications or process
 Redis: Used for caching and session management.
 Docker: Containerization tool for consistent development and deployment environments.
 CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
+
 “Database Design”.
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
@@ -59,6 +53,9 @@ Caching: Use caching strategies to reduce database load and improve performance.
  “API Security”.
  REST API: Detailed documentation available through the OpenAPI standard, including endpoints for users, properties, bookings, and payments.
 GraphQL API: Provides a flexible query language for retrieving and manipulating data.
+
+“CI/CD Pipeline”.
+A CI/CD pipeline is a series of automated steps that streamline the software development process from coding to deployment. It automates tasks like building, testing, and deploying code, enabling faster and more reliable delivery of software changes
 
 
 
